@@ -7,4 +7,4 @@ Python version: 2.7.6
 
 Email: sbo@zju.edu.cn
 
-In branch feature1
+In branch feature1 why no conflict?
